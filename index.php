@@ -30,7 +30,7 @@ function debug( $var ) {
 	error_log( print_r( $var, true ) );
 }
 
-$init_connection = new \PurpleRedis\Inc\Init_Connection();
+$init_connection = new \WPRedis\Inc\Init_Connection();
 
 wp_enqueue_script(
 	'purple-gutenbergid-script',

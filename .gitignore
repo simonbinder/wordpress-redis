@@ -1,0 +1,16 @@
+.idea/
+node_modules/
+purpledshub.iml
+phpunit-7.4.3.phar
+inc/testcaseTest.php
+addons/*
+addons/*/
+!addons/.gitkeep
+modules/woodwing-integration/systems.php
+modules/raw-html-import/systems.php
+temp/
+wwlog/
+wwtemp/
+
+test-report.xml
+coverage-report.clover

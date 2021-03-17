@@ -1,6 +1,6 @@
 <?php
 
-namespace PurpleRedis\Inc;
+namespace WPRedis\Inc;
 
 use PurpleDsHub\Inc\Interfaces\Hooks_Interface;
 use \PurpleDsHub\Inc\Utilities\Torque_Urls;

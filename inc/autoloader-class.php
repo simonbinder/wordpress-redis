@@ -32,7 +32,7 @@ class Autoloader {
 	 */
 	private static function namespace_autoload( $class_name ) {
 		// If the specified $class_name does not include our namespace, duck out.
-		if ( false === strpos( $class_name, 'PurpleRedis' ) ) {
+		if ( false === strpos( $class_name, 'WPRedis' ) ) {
 			return;
 		}
 
