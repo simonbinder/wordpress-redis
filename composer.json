@@ -1,0 +1,16 @@
+{
+  "name": "purple-plugin/purpledshub-nosql",
+  "description": "This plugin extends Wordpress by syncing to a MongoDB",
+  "type": "wordpress-plugin",
+  "require": {
+    "composer/installers": "^1.7",
+  },
+  "authors": [
+    {
+      "name": "sprylab technologies",
+      "email": "support@sprylab.com"
+    }
+  ],
+  "require-dev": {
+  }
+}
